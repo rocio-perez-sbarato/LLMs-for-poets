@@ -32,16 +32,29 @@
 ## Objetivos preliminares
 
 - Introducir a los usuarios en el uso de Hugging Face y las librerías necesarias para interactuar con modelos de lenguaje, proporcionando un entorno accesible y fácil de usar.
-
 - Enseñar a los usuarios a cargar y preprocesar datasets, incluyendo la **tokenización** de textos, para preparar los datos necesarios para el entrenamiento de modelos.
-
 - Capacitar a los usuarios para entrenar y hacer **fine-tuning** de un modelo LLM con sus propios datasets, enfocándose en la adaptación del modelo a tareas específicas, como el resumen de textos.
-
 - Proporcionar a los usuarios las herramientas y metodologías necesarias para evaluar el rendimiento de los modelos ajustados, permitiendo una comprensión crítica de su efectividad en diferentes tareas.
-
 - Crear una documentación clara y accesible para cada notebook, que explique los conceptos clave, pasos a seguir y recomendaciones para facilitar la autogestión y el aprendizaje autónomo de los usuarios.
-
 - Fomentar la interactividad mediante ejemplos prácticos y ejercicios en cada notebook, permitiendo a los usuarios experimentar con los modelos y evaluar su aplicabilidad a problemas reales.
+
+- Guiar a los usuarios en los desafíos típicos del PLN 
+  - Entender qué es hugging face
+  - Hacerse una cuenta en hugging face
+  - Qué es fine tuning, qué es un modelo de lenguaje
+  - Cómo cargar datasets
+  - Tokenizar y decodificar (si usamos gpt2)
+  - Entrenar el modelo
+  - Evaluar el nuevo modelo
+  - Compartir el modelo en hugging face
+
+- Realizar una serie de tres Notebooks (si hacemos Text-Generation)
+  - Notebook 1: HugginFace y Librerías (0,1 y 2 del nano)
+    - (detalles)   
+  - Notebook 2: Datasets y tokenizar (primera mitad de 4.2 de nano)
+    - (detalles)   
+  - Notebook 3: Entrenar y probar modelo nuevo (segunda mitad de 4.2 de nano)
+    - (detalles)   
 
 ## Técnicas relevantes
 
