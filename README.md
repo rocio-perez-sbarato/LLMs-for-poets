@@ -31,12 +31,17 @@
 
 ## Objetivos preliminares
 
-- Desarrollar tres notebooks interactivas:
-  - Introducción a los LLMs y uso básico en Colab y HugginFace
-  - Aplicación de LLMs a tareas de resumen de textos y análisis de resultados.
-  - Fine-tuning de LLMs con conjuntos de datos privados en Colab.
-- Proporcionar guías claras y documentadas para usuarios sin preparación técnica.
-- Facilitar la evaluación de los modelos y el análisis de resultados.
+- Introducir a los usuarios en el uso de Hugging Face y las librerías necesarias para interactuar con modelos de lenguaje, proporcionando un entorno accesible y fácil de usar.
+
+- Enseñar a los usuarios a cargar y preprocesar datasets, incluyendo la **tokenización** de textos, para preparar los datos necesarios para el entrenamiento de modelos.
+
+- Capacitar a los usuarios para entrenar y hacer **fine-tuning** de un modelo LLM con sus propios datasets, enfocándose en la adaptación del modelo a tareas específicas, como el resumen de textos.
+
+- Proporcionar a los usuarios las herramientas y metodologías necesarias para evaluar el rendimiento de los modelos ajustados, permitiendo una comprensión crítica de su efectividad en diferentes tareas.
+
+- Crear una documentación clara y accesible para cada notebook, que explique los conceptos clave, pasos a seguir y recomendaciones para facilitar la autogestión y el aprendizaje autónomo de los usuarios.
+
+- Fomentar la interactividad mediante ejemplos prácticos y ejercicios en cada notebook, permitiendo a los usuarios experimentar con los modelos y evaluar su aplicabilidad a problemas reales.
 
 ## Técnicas relevantes
 
