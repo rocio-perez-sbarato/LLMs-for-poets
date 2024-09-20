@@ -1,1 +1,26 @@
-# LLMs-for-poets
+# Título 
+
+
+
+## Resumen
+
+
+## Hipótesis
+
+
+
+## Objetivos preliminares
+
+
+
+## Técnicas relevantes
+
+
+
+## Referencias
+
+
+
+## Planificación
+
+
