@@ -9,7 +9,8 @@
 > **Lluvia de ideas de títulos**
 >> - Personalización de un modelo para resumen de textos
 >> - Personalizá tu modelo para resumen de textos
->> - 
+>> - Democratizando los LLMs: Un enfoque práctico para principiantes 
+>> - LLMs sin barreras: Aprende a personalizar modelos de lenguaje
 
 ## Resumen
 
@@ -22,12 +23,12 @@
 - Se propone que los LLMs sean vistos como una opción más a considerar en la resolución de problemas, permitiendo a los usuarios elegir de manera informada si son adecuados para sus necesidades.
 
 ## Hipótesis
-> *No sé qué habría que poner acá, me parece que tendría que ser parecido a objetivos preliminares*
-  
-- Es posible desarrollar notebooks que sean fácilmente comprensibles y accesibles para usuarios sin experiencia técnica.
-- Los usuarios podrán realizar fine-tuning de LLMs para adaptar los modelos a sus propios datasets y aplicarlos a tareas como el resumen automático de textos.
-- Se podrá garantizar que los usuarios trabajen con sus datos de forma segura, sin tener que enviarlos a APIs o servicios externos, manteniendo la privacidad de los mismos.
-- Dado el crecimiento y la complejidad de los recursos en Procesamiento del Lenguaje Natural, estos notebooks permitirán a los usuarios experimentar rápidamente con LLMs y evaluar si son útiles para su problema específico.
+La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usuarios sin experiencia técnica:
+
+1. Comprender y aplicar efectivamente técnicas de fine-tuning en modelos de lenguaje para tareas específicas como el resumen automático de textos.
+2. Trabajar con sus propios conjuntos de datos de manera segura y privada, sin depender de APIs o servicios externos.
+3. Experimentar y evaluar rápidamente la utilidad de los LLMs para sus necesidades específicas, fomentando una toma de decisiones informada sobre el uso de estas tecnologías.
+4. Adquirir habilidades prácticas en el manejo de datasets, tokenización, entrenamiento y evaluación de modelos de lenguaje, superando las barreras de entrada tradicionalmente asociadas con estas tecnologías.
 
 ## Objetivos preliminares
 
@@ -48,13 +49,32 @@
   - Evaluar el nuevo modelo
   - Compartir el modelo en hugging face
 
-- Realizar una serie de tres Notebooks (si hacemos Text-Generation)
-  - Notebook 1: HugginFace y Librerías (0,1 y 2 del nano)
-    - (detalles)   
-  - Notebook 2: Datasets y tokenizar (primera mitad de 4.2 de nano)
-    - (detalles)   
-  - Notebook 3: Entrenar y probar modelo nuevo (segunda mitad de 4.2 de nano)
-    - (detalles)   
+- Serie de Notebooks para Text-Generation
+
+### Notebook 1: HuggingFace y Librerías
+- Introducción a Hugging Face y su ecosistema
+- Instalación y configuración de las librerías necesarias (transformers, datasets, etc.)
+- Exploración de modelos pre-entrenados y relativamente pequeños disponibles. [Algunas ideas en este doc.](https://docs.google.com/document/d/1qK6giCZ7Um5d_gG-gAG80uXMAvp8EG3X2TOX5JJlrtg/edit#heading=h.hd5lgt8fhu3q)
+- Demostración básica de cómo cargar y usar un modelo pre-entrenado
+- Introducción a las tareas de procesamiento de lenguaje natural (NLP)
+
+### Notebook 2: Datasets y Tokenización
+- Carga y exploración de datasets usando la librería datasets
+- Preparación y limpieza de datos
+- Introducción a la tokenización
+- Procesamiento de datos
+- Visualización de la distribución de longitudes de tokens en el dataset
+
+### Notebook 3: Entrenamiento y Prueba del Modelo Nuevo
+- Configuración del modelo para fine-tuning
+- Definición de hiperparámetros de entrenamiento
+- Implementación del bucle de entrenamiento usando Trainer de Hugging Face
+- Monitoreo del proceso de entrenamiento (loss, perplexity)
+- Evaluación del modelo en el conjunto de prueba
+- Generación de texto con el modelo fine-tuned
+- Comparación de resultados entre el modelo base y el modelo adaptado
+- Guardado y carga del modelo personalizado
+- Publicación del modelo en Hugging Face Hub???
 
 ## Técnicas relevantes
 
@@ -66,14 +86,9 @@
 - Evaluación sistemática de resultados y visualización. *(TO DO: elegir métricas de evaluación)*
   
 ## Referencias
-> *No sé cómo citar código*
-  
-- primera aproximación que hizo Mili al proyecto de LLMs for poets:
-https://colab.research.google.com/drive/1h3hQ8anuKjoWJXz12p-OgwduBpYQB7rI?usp=sharing
-- ejemplo de otra notebooks educativa:
-https://github.com/nanom/llm_adaptation_workshop
-- como parte del curso encontrarán esta notebook:
-https://colab.research.google.com/drive/1bSo9oXpB7fHjPB5UZGKJAcyA0zXHGjZO?usp=sharing#scrollTo=7JMLkzn24hnm
+- [Using pretrained LLM for text classification](https://colab.research.google.com/drive/1h3hQ8anuKjoWJXz12p-OgwduBpYQB7rI?usp=sharing)
+- [Taller: Modelos de lenguaje a tu medida](https://colab.research.google.com/github/nanom/llm_adaptation_workshop/blob/main/Taller_Modelos_de_lenguaje_a_tu_medida_13_de_septiembre_2023.ipynb)
+- [Social Impacts of Artificial Intelligence](https://colab.research.google.com/drive/1bSo9oXpB7fHjPB5UZGKJAcyA0zXHGjZO?usp=sharing#scrollTo=7JMLkzn24hnm)
 
 ## Planificación (1 mes + 1 semana extra de revisión)
 
