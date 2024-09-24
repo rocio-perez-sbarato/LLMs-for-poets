@@ -2,8 +2,7 @@
 
 ## Resumen
 
-Partiendo de la necesidad de hacer accesible el uso de modelos de lenguaje avanzados para personas sin experiencia técnica, utilizaremos Google Colab, Jupyter y técnicas de fine-tuning de LLMs para lograr que los usuarios trabajen con sus propios datos de manera privada, experimenten rápidamente con modelos de lenguaje, y evalúen su adecuación para resolver problemas específicos.
-
+Partiendo de la necesidad de hacer accesible el uso de modelos de lenguaje avanzados para personas sin experiencia técnica, utilizaremos Google Colab y técnicas de fine-tuning de LLMs para lograr que los usuarios trabajen con sus propios datos de manera privada, experimenten rápidamente con modelos de lenguaje, y evalúen su adecuación para resolver problemas específicos.
 
 ## Hipótesis
 
@@ -24,9 +23,9 @@ Se utilizarán Google Colab y la librería Transformers de Hugging Face, incluye
 
 ## Planificación
 
-**Semana 1:** Desarrollo del Notebook 1: Introducción a Hugging Face, instalación de librerías, uso de modelos pre-entrenados, y configuración en Colab.  
+**Semana 1:** Desarrollo del Notebook 1: Introducción a Hugging Face, instalación de librerías, uso de modelos pre-entrenados y configuración en Colab.  
 **Semana 2:** Desarrollo del Notebook 2: Carga de datasets, limpieza, tokenización y preprocesamiento de datos.  
-**Semana 3:** Desarrollo del Notebook 3: Entrenamiento y evaluación de un modelo ajustado, monitoreo del proceso y comparación con el modelo base.  
+**Semana 3:** Desarrollo del Notebook 3: Entrenamiento y evaluación de un modelo ajustado, métricas de evaluación y comparación con el modelo base.  
 **Semana 4:** Documentación pedagógica clara con guías y ejemplos prácticos.  
 **Semana 5:** Incorporación de críticas y mejoras de compañeros.  
 **Semanas extra:** Pulido final y ajustes antes del examen final.
