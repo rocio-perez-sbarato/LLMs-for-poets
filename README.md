@@ -24,7 +24,7 @@ Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para pe
   - Semana 3: Notebook 3 (Fine-tuning).
   - Semana 4: Documentación.
   - Semana 5: Incorporación de devoluciones.
-- **Desviaciones:** No ha habido grandes desviaciones. El desarrollo sigue el cronograma previsto.
+- **Desviaciones:** No ha habido grandes desviaciones. El desarrollo sigue el cronograma previsto. Fuimos haciendo el paso de documentación de los notebooks a la par de la implementación del código, por una cuestión de preveer el estado final de los notebooks. Esto hizo que el notebook 3 aún no esté terminado.
 - **Adaptaciones:** A partir de las devoluciones recibidas, adoptamos la filosofía de **"menos es más"**, apostando por simplificar los ejemplos y conceptos en lugar de sobrecargar a los usuarios con demasiada información. Nos centramos en lo esencial para evitar confusión y asegurar la comprensión. Brindamos enlaces a otros recursos educativos. 
   
 ## Exploración de Librerías y Codebases
@@ -36,6 +36,12 @@ Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para pe
 - **Desarrollo técnico:** 
   - La estructura del codebase está orientada a la modularidad, separando claramente la carga de datasets, tokenización, y entrenamiento de modelos.
   - La interactividad es clave, permitiendo a los usuarios modificar parámetros y observar los resultados de manera inmediata.
+
+## Referencias
+- [Using pretrained LLM for text classification](https://colab.research.google.com/drive/1h3hQ8anuKjoWJXz12p-OgwduBpYQB7rI?usp=sharing)
+- [Taller: Modelos de lenguaje a tu medida](https://colab.research.google.com/github/nanom/llm_adaptation_workshop/blob/main/Taller_Modelos_de_lenguaje_a_tu_medida_13_de_septiembre_2023.ipynb)
+- [Social Impacts of Artificial Intelligence](https://colab.research.google.com/drive/1bSo9oXpB7fHjPB5UZGKJAcyA0zXHGjZO?usp=sharing#scrollTo=7JMLkzn24hnm)
+- [Hands On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
 
 ## Devoluciones y Comentarios de Otros Grupos
 - **Revisión de otros grupos:** 
@@ -50,7 +56,7 @@ Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para pe
   - **Nivel de comprensión:** Evaluar si los usuarios pueden seguir los ejemplos y ejecutar las tareas propuestas sin mayor dificultad.
   - **Satisfacción del usuario:** Recoger opiniones sobre la claridad, utilidad y facilidad de uso de los notebooks.
 
-## 7. Próximos Pasos y Planificación hacia la Presentación Final
+## Próximos Pasos y Planificación hacia la Presentación Final
 - **Tareas pendientes:**
   - Completar la tercera notebook (fine-tuning y evaluación de modelos).
   - Finalizar la documentación interactiva.
@@ -62,6 +68,6 @@ Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para pe
   - Semana 6 (del 17 al 24 de noviembre): incorporación de devoluciones y pulido final de las notebooks. Redacción del informe final.
   - Semana 7 (del 25 al 1 de diciembre): revisión final y entrega.
 
-## 8. Conclusión
+## Conclusión
 - **Conclusión provisional:** El proyecto está progresando según lo planeado. Se ha avanzado significativamente en la creación de notebooks accesibles y comprensibles, con dos de tres notebooks casi completas. Las pruebas con usuarios y los formularios de feedback serán clave para evaluar la comprensión y usabilidad de las herramientas desarrolladas.
 
