@@ -1,35 +1,67 @@
+# Democratizando los LLMs: Un enfoque práctico para principiante
+
 # Informe de Avances del Proyecto
 
-## 1. Introducción
-- **Resumen del proyecto:** Breve descripción del proyecto, hipótesis inicial y objetivos.
-- **Contexto del proyecto:** Explicación del problema abordado y su relevancia.
-- **Estado actual del proyecto:** Descripción de los avances hasta el momento.
+## Resumen
 
-## 2. Relación entre Hipótesis y Objetivos Iniciales y el Estado Actual
-- **Hipótesis:** Explicación de la hipótesis inicial.
-- **Objetivos:** Listado de los objetivos propuestos al inicio del proyecto.
-- **Progreso en relación a los objetivos:** Discusión de en qué medida los objetivos iniciales se han cumplido y qué se ha logrado hasta ahora.
+Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para personas sin experiencia técnica, utilizando Google Colab y Jupyter sin necesidad de APIs de terceros. El objetivo es facilitar el fine-tuning/personalización de LLMs y el resumen automático de textos, permitiendo a los usuarios trabajar con conjuntos de datos propios manteniendo la privacidad. Se proporcionará un entorno pedagógico para el ajuste de hiperparámetros, preprocesamiento y evaluación sistemática de modelos, diseñado para facilitar la experimentación rápida con modelos de lenguaje avanzados sin necesidad de grandes infraestructuras.
 
-## 3. Relación entre la Planificación Inicial y la Ejecución Efectiva
-- **Planificación inicial:** Descripción de las fases planificadas y sus plazos.
-- **Desviaciones:** Identificación de posibles desviaciones del plan original y sus razones.
-- **Adaptaciones:** Medidas tomadas para ajustar la ejecución del proyecto.
+## Relación entre Hipótesis y Objetivos Iniciales y el Estado Actual
+
+- **Hipótesis:** Las notebooks interactivas permitirán a usuarios sin experiencia técnica comprender, aplicar y evaluar los LLMs, trabajando con sus propios datos y manteniendo la privacidad.
+- **Objetivos:** 
+  1. Introducir a los usuarios en Hugging Face y el uso de modelos pre-entrenados.
+  2. Enseñar carga y preprocesamiento de datasets, incluyendo tokenización.
+  3. Facilitar el fine-tuning de modelos LLM con datasets propios.
+  4. Proporcionar herramientas para evaluar el rendimiento de los modelos.
+  5. Crear documentación accesible y fomentar la interactividad.
+- **Progreso en relación a los objetivos:** Los primeros dos objetivos están casi completos: la notebook 1 (introducción a Hugging Face) y notebook 2 (preprocesamiento de datasets y tokenización) están terminadas, y la notebook 3 (finetuning) está en su fase final de pruebas. Se prevé cumplir los objetivos restantes a tiempo.
+
+## Relación entre la Planificación Inicial y la Ejecución Efectiva
+- **Planificación inicial:** 
+  - Semana 1: Notebook 1 (Hugging Face).
+  - Semana 2: Notebook 2 (Tokenización).
+  - Semana 3: Notebook 3 (Fine-tuning).
+  - Semana 4: Documentación.
+  - Semana 5: Incorporación de devoluciones.
+- **Desviaciones:** No ha habido grandes desviaciones. El desarrollo sigue el cronograma previsto.
+- **Adaptaciones:** A partir de las devoluciones recibidas, adoptamos la filosofía de **"menos es más"**, apostando por simplificar los ejemplos y conceptos en lugar de sobrecargar a los usuarios con demasiada información. Nos centramos en lo esencial para evitar confusión y asegurar la comprensión. Brindamos enlaces a otros recursos educativos. 
   
-## 4. Próximos Pasos y Planificación hacia la Presentación Final
-- **Tareas pendientes:** Lista de las tareas restantes antes de la entrega final.
-- **Plazos:** Fechas clave para completar las tareas.
+## Exploración de Librerías y Codebases
+- **Librerías / Codebases investigadas:** Hugging Face (transformers, datasets), Google Colab, PyTorch.
+- **Elecciones finales y justificación:**
+  - Hugging Face fue seleccionada por su robustez y comunidad activa, lo que facilita su adopción por principiantes.
+  - Google Colab ofrece un entorno gratuito y fácil de usar para personas sin acceso a hardware especializado.
+  - PyTorch fue elegido debido a su integración con Hugging Face y su flexibilidad en tareas de aprendizaje automático.
+- **Desarrollo técnico:** 
+  - La estructura del codebase está orientada a la modularidad, separando claramente la carga de datasets, tokenización, y entrenamiento de modelos.
+  - La interactividad es clave, permitiendo a los usuarios modificar parámetros y observar los resultados de manera inmediata.
 
-## 5. Exploración de Librerías y Codebases
-- **Librerías / Codebases investigadas:** Descripción de las herramientas exploradas.
-- **Elecciones finales y justificación:** Razones detrás de la selección de las librerías y herramientas utilizadas en el desarrollo del proyecto.
-- **Desarrollo técnico:** Estado del codebase actual y estructura de los componentes implementados.
+## Devoluciones y Comentarios de Otros Grupos
+- **Revisión de otros grupos:** 
+  - Se planea recibir las devoluciones en la próxima fase del proyecto.
+  - Se prevé que los comentarios estarán centrados en la accesibilidad y claridad de la documentación, así como la forma de evaluar el éxito del proyecto.
+- **Implementación de sugerencias:** Las críticas que recibimos influyeron en la simplificación del contenido, adoptando un enfoque minimalista para evitar sobrecargar a los usuarios. Además, se propuso la creación de formularios para recoger feedback sobre la experiencia del usuario.
 
-## 6. Relación con el trabajo previo (bibliografía)
-- **Referencias a trabajos previos:** Conexiones con investigaciones o proyectos similares.
-- 
-## 7. Devoluciones y Comentarios de Otros Grupos
-- **Revisión de otros grupos:** Resumen de las sugerencias recibidas durante la revisión por parte de otros grupos.
-- **Implementación de sugerencias:** Descripción de cómo se han incorporado (o no) las sugerencias y la justificación de las decisiones.
+### Evaluación del Éxito del Proyecto
+- **Críticas recibidas:** Los comentarios más relevantes que recibimos giraron en torno a **cómo vamos a evaluar el éxito del proyecto**. Se nos sugirió que necesitábamos una estrategia clara para medir la efectividad de los notebooks y la comprensión de los usuarios.
+- **Respuesta a las críticas:** Decidimos implementar **formularios de feedback** al final de cada notebook para que los usuarios puedan evaluar su experiencia, dificultades y comprensión de los conceptos. Estos formularios recogerán datos cuantitativos y cualitativos, que usaremos para ajustar las notebooks en la fase final.
+- **Criterios de éxito:** El éxito del proyecto se medirá principalmente a través de:
+  - **Nivel de comprensión:** Evaluar si los usuarios pueden seguir los ejemplos y ejecutar las tareas propuestas sin mayor dificultad.
+  - **Satisfacción del usuario:** Recoger opiniones sobre la claridad, utilidad y facilidad de uso de los notebooks.
+
+## 7. Próximos Pasos y Planificación hacia la Presentación Final
+- **Tareas pendientes:**
+  - Completar la tercera notebook (fine-tuning y evaluación de modelos).
+  - Finalizar la documentación interactiva.
+  - Realizar pruebas con usuarios para evaluar la comprensión y usabilidad de los notebooks.
+  - Incorporar devoluciones de otros grupos.
+- **Plazos:** 
+  - Semana 4 (del 1 al 8 de noviembre): finalización de la tercera notebook.
+  - Semana 5 (del 9 al 16 de noviembre): pruebas con usuarios.
+  - Semana 6 (del 17 al 24 de noviembre): incorporación de devoluciones y pulido final de las notebooks. Redacción del informe final.
+  - Semana 7 (del 25 al 1 de diciembre): revisión final y entrega.
 
 ## 8. Conclusión
-- **Conclusión provisional:** Resumen del progreso global del proyecto y expectativas para la fase final.
+- **Conclusión provisional:** El proyecto está progresando según lo planeado. Se ha avanzado significativamente en la creación de notebooks accesibles y comprensibles, con dos de tres notebooks casi completas. Las pruebas con usuarios y los formularios de feedback serán clave para evaluar la comprensión y usabilidad de las herramientas desarrolladas.
+
