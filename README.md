@@ -1,4 +1,4 @@
-# Democratizando los LLMs: Un enfoque práctico para principiantes
+# Democratizando los LLMs: Un enfoque práctico para principiante
 
 ## Resumen
 
