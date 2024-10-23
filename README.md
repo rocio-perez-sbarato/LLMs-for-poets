@@ -6,15 +6,27 @@
 
 Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para personas sin experiencia técnica, utilizando Google Colab y Jupyter sin necesidad de APIs de terceros. El objetivo es facilitar el fine-tuning/personalización de LLMs y el resumen automático de textos, permitiendo a los usuarios trabajar con conjuntos de datos propios manteniendo la privacidad. Se proporcionará un entorno pedagógico para el ajuste de hiperparámetros, preprocesamiento y evaluación sistemática de modelos, diseñado para facilitar la experimentación rápida con modelos de lenguaje avanzados sin necesidad de grandes infraestructuras.
 
+## Hipótesis
+
+La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usuarios sin experiencia técnica:
+
+1. Comprender y aplicar efectivamente técnicas de fine-tuning en modelos de lenguaje para tareas específicas como el resumen automático de textos.
+2. Trabajar con sus propios conjuntos de datos de manera segura y privada, sin depender de APIs o servicios externos.
+3. Experimentar y evaluar rápidamente la utilidad de los LLMs para sus necesidades específicas, fomentando una toma de decisiones informada sobre el uso de estas tecnologías.
+4. Adquirir habilidades prácticas en el manejo de datasets, tokenización, entrenamiento y evaluación de modelos de lenguaje, superando las barreras de entrada tradicionalmente asociadas con estas tecnologías.
+
+## Objetivos preliminares
+
+1. Introducir a los usuarios en el uso de Hugging Face y las librerías necesarias para interactuar con modelos de lenguaje.
+2. Enseñar a cargar y preprocesar datasets, incluyendo la tokenización de textos.
+3. Capacitar a los usuarios para entrenar y hacer fine-tuning de un modelo LLM con sus propios datasets.
+4. Proporcionar herramientas y metodologías para evaluar el rendimiento de los modelos ajustados.
+5. Crear documentación clara y accesible para cada notebook.
+6. Fomentar la interactividad mediante ejemplos prácticos y ejercicios.
+  
 ## Relación entre Hipótesis y Objetivos Iniciales y el Estado Actual
 
-- **Hipótesis:** Las notebooks interactivas permitirán a usuarios sin experiencia técnica comprender, aplicar y evaluar los LLMs, trabajando con sus propios datos y manteniendo la privacidad.
-- **Objetivos:** 
-  1. Introducir a los usuarios en Hugging Face y el uso de modelos pre-entrenados.
-  2. Enseñar carga y preprocesamiento de datasets, incluyendo tokenización.
-  3. Facilitar el fine-tuning de modelos LLM con datasets propios.
-  4. Proporcionar herramientas para evaluar el rendimiento de los modelos.
-  5. Crear documentación accesible y fomentar la interactividad.
+- **Progreso en relación a los objetivos:** Gran parte de los objetivos han sido alcanzados: la notebook 1 (Hugging Face y Librerías) y notebook 2 (Datasets y Tokenización) están terminadas. La notebook 3 (Entrenamiento y Prueba del Modelo Nuevo) está en su fase final de pruebas. Hemos logrado crear documentación clara y accesible para cada notebook, así como fomentar la interactividad a través de ejemplos prácticos y ejercicios. 
 
 ## Relación entre la Planificación Inicial y la Ejecución Efectiva
 - **Planificación inicial:** 
@@ -24,7 +36,6 @@ Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para pe
   - Semana 4: Documentación de las notebooks.
   - Semana 5: Incorporación de devoluciones de otros grupos.
 - **Desviaciones:** No se han presentado desviaciones significativas, y el desarrollo avanza según lo planificado. Hemos trabajado en la documentación de los notebooks en paralelo con la implementación del código, anticipando el estado final de los mismos. Como resultado de esta estrategia, el notebook 3 aún no está finalizado. 
-- **Progreso en relación a los objetivos:** Los primeros dos objetivos están casi completos: la notebook 1 (introducción a Hugging Face) y notebook 2 (preprocesamiento de datasets y tokenización) están terminadas, y la notebook 3 (finetuning) está en su fase final de pruebas. 
   
 ## Exploración de Librerías y Codebases
 - **Librerías / Codebases investigadas:** Hugging Face (transformers, datasets), Google Colab, PyTorch.
