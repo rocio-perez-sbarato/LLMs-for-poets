@@ -24,6 +24,21 @@ La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usua
 5. Crear documentación clara y accesible para cada notebook.
 6. Fomentar la interactividad mediante ejemplos prácticos y ejercicios.
 
+## Relación entre la hipótesis y los objetivos iniciales y el estado final alcanzado
+
+La relación entre las hipótesis y los objetivos con el resultado final del proyecto aún es parcial, ya que no se han realizado pruebas formales con usuarios para validar plenamente las hipótesis. Sin embargo, los avances hasta ahora reflejan un progreso significativo en el cumplimiento de los objetivos técnicos y pedagógicos:  
+
+1. **Progreso en relación a las hipótesis:**  
+   - Aunque no se han realizado pruebas con usuarios, las notebooks desarrolladas están diseñadas para abordar las hipótesis iniciales, como facilitar la comprensión de técnicas avanzadas y permitir que los usuarios trabajen con sus propios datasets de manera segura y privada.  
+   - Las características interactivas y la estructura modular de los notebooks también responden a la hipótesis de que estos recursos fomentan la experimentación rápida y la toma de decisiones informada.  
+
+2. **Cumplimiento de los objetivos:**  
+   - Los objetivos relacionados con la introducción a Hugging Face, el preprocesamiento de datasets, la tokenización y fine-tuning se han cumplido con éxito en las primeras dos notebooks.  
+   - Se han creado ejemplos prácticos y documentación clara, alineándose con el objetivo de proporcionar recursos accesibles y didácticos.  
+
+3. **Resultados pendientes:**  
+   - Aún falta validar las hipótesis a través de talleres y formularios de feedback. Esto será crucial para evaluar el impacto pedagógico y la utilidad práctica de los notebooks.  
+
 ## Relación entre la planificación inicial y la ejecución efectiva
 
 - **Planificación inicial:** 
