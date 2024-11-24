@@ -36,7 +36,7 @@ La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usua
   - Semana 3: Notebook 3 - Entrenamiento y Prueba del Modelo Nuevo.
   - Semana 4: Documentación de las notebooks.
   - Semana 5: Incorporación de devoluciones de otros grupos.
-- **Desviaciones:** No se han presentado desviaciones significativas, y el desarrollo avanza según lo planificado. Los cambios han sido en relación al ritmo de trabajo. Particularmente, hemos trabajado en la documentación de los notebooks en paralelo con la implementación del código, anticipando el estado final de los mismos.
+- **Desviaciones:** No se han presentado desviaciones significativas, y el desarrollo avanzó según lo planificado. Los cambios han sido en relación al ritmo de trabajo. Particularmente, hemos trabajado en la documentación de los notebooks en paralelo con la implementación del código, anticipando el estado final de los mismos.
   
 ## Exploración de librerías y codebases
 
