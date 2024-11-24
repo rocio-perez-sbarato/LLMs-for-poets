@@ -23,10 +23,6 @@ La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usua
 4. Proporcionar herramientas y metodologías para evaluar el rendimiento de los modelos ajustados.
 5. Crear documentación clara y accesible para cada notebook.
 6. Fomentar la interactividad mediante ejemplos prácticos y ejercicios.
-  
-## Relación entre hipótesis y objetivos iniciales y el estado actual
-
-- **Progreso en relación a los objetivos:** Los objetivos han sido alcanzados: la notebook 1 (Hugging Face y Librerías) y notebook 2 (Datasets y Tokenización) están terminadas. La notebook 3 (Entrenamiento y Prueba del Modelo Nuevo) está en su fase final de pruebas. Hemos logrado crear documentación clara y accesible para cada notebook, así como fomentar la interactividad a través de ejemplos prácticos y ejercicios. También se cumplió el objetivo de evaluar el desempeño y experiencia de los usuarios mediante formularios. 
 
 ## Relación entre la planificación inicial y la ejecución efectiva
 
