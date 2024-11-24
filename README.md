@@ -26,18 +26,20 @@ La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usua
   
 ## Relación entre Hipótesis y Objetivos Iniciales y el Estado Actual
 
-- **Progreso en relación a los objetivos:** Gran parte de los objetivos han sido alcanzados: la notebook 1 (Hugging Face y Librerías) y notebook 2 (Datasets y Tokenización) están terminadas. La notebook 3 (Entrenamiento y Prueba del Modelo Nuevo) está en su fase final de pruebas. Hemos logrado crear documentación clara y accesible para cada notebook, así como fomentar la interactividad a través de ejemplos prácticos y ejercicios. 
+- **Progreso en relación a los objetivos:** Los objetivos han sido alcanzados: la notebook 1 (Hugging Face y Librerías) y notebook 2 (Datasets y Tokenización) están terminadas. La notebook 3 (Entrenamiento y Prueba del Modelo Nuevo) está en su fase final de pruebas. Hemos logrado crear documentación clara y accesible para cada notebook, así como fomentar la interactividad a través de ejemplos prácticos y ejercicios. También se cumplió el objetivo de evaluar el desempeño y experiencia de los usuarios mediante formularios. 
 
 ## Relación entre la Planificación Inicial y la Ejecución Efectiva
+
 - **Planificación inicial:** 
   - Semana 1: Notebook 1 - Hugging Face y Librerías.
   - Semana 2: Notebook 2 - Datasets y Tokenización.
   - Semana 3: Notebook 3 - Entrenamiento y Prueba del Modelo Nuevo.
   - Semana 4: Documentación de las notebooks.
   - Semana 5: Incorporación de devoluciones de otros grupos.
-- **Desviaciones:** No se han presentado desviaciones significativas, y el desarrollo avanza según lo planificado. Hemos trabajado en la documentación de los notebooks en paralelo con la implementación del código, anticipando el estado final de los mismos. Como resultado de esta estrategia, el notebook 3 aún no está finalizado. 
+- **Desviaciones:** No se han presentado desviaciones significativas, y el desarrollo avanza según lo planificado. Los cambios han sido en relación al ritmo de trabajo. Particularmente, hemos trabajado en la documentación de los notebooks en paralelo con la implementación del código, anticipando el estado final de los mismos.
   
 ## Exploración de Librerías y Codebases
+
 - **Librerías / Codebases investigadas:** Hugging Face (transformers, datasets), Google Colab, PyTorch.
 - **Elecciones finales y justificación:**
   - Hugging Face fue seleccionada por su robustez y comunidad activa, lo que facilita su adopción por principiantes.
@@ -48,34 +50,35 @@ La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usua
   - La interactividad es clave, permitiendo a los usuarios modificar parámetros y observar los resultados de manera inmediata.
 
 ## Referencias
+
 - [Using pretrained LLM for text classification](https://colab.research.google.com/drive/1h3hQ8anuKjoWJXz12p-OgwduBpYQB7rI?usp=sharing)
 - [Taller: Modelos de lenguaje a tu medida](https://colab.research.google.com/github/nanom/llm_adaptation_workshop/blob/main/Taller_Modelos_de_lenguaje_a_tu_medida_13_de_septiembre_2023.ipynb)
 - [Social Impacts of Artificial Intelligence](https://colab.research.google.com/drive/1bSo9oXpB7fHjPB5UZGKJAcyA0zXHGjZO?usp=sharing#scrollTo=7JMLkzn24hnm)
 - [Hands On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
 
 ## Devoluciones y Comentarios de Otros Grupos
+
 - **Revisión de otros grupos:** 
   - Se planteó que el proyecto es una propuesta interesante, pero es fundamental definir criterios específicos de éxito y las herramientas para medir la efectividad de los notebooks y la comprensión de los usuarios. Además, se sugirió aclarar el público objetivo y considerar la inclusión de recursos adicionales, como tutoriales y ejercicios prácticos, para enriquecer el aprendizaje y facilitar la comprensión de los LLMs.
   - **Implementación de sugerencias:** Para abordar estas críticas, incluiremos recursos adicionales, principalmente de Jay Alammar, como tutoriales y ejercicios prácticos, ya que consideramos que estas mejoras son fundamentales para facilitar el aprendizaje y adaptar el contenido a las necesidades de los usuarios, especialmente aquellos sin experiencia previa. Además, se propuso la creación de formularios para recoger feedback sobre la experiencia del usuario.
 
 ### Evaluación del Éxito del Proyecto
+
 - **Respuesta a las críticas:** Decidimos implementar **formularios de feedback** al final de cada notebook para que los usuarios puedan evaluar su experiencia, dificultades y comprensión de los conceptos. Estos formularios recogerán datos cuantitativos y cualitativos, que usaremos para ajustar las notebooks en la fase final.
-- **Criterios de éxito:** El éxito del proyecto se medirá principalmente a través de:
+- **Criterios de éxito:** El éxito del proyecto se medirá principalmente a través de preguntas abiertas y puntuales en torno a los siguientes ejes:
   - **Nivel de comprensión:** Evaluar si los usuarios pueden seguir los ejemplos y ejecutar las tareas propuestas sin mayor dificultad.
   - **Satisfacción del usuario:** Recoger opiniones sobre la claridad, utilidad y facilidad de uso de los notebooks.
 
-## Próximos Pasos y Planificación hacia la Presentación Final
-- **Tareas pendientes:**
-  - Completar la tercera notebook (fine-tuning y evaluación de modelos).
-  - Finalizar la documentación interactiva.
-  - Incorporar formularios al final de cada notebook, a modo de recopilación de feedback y evaluación de comprensión.
-  - Realizar pruebas con usuarios para evaluar la comprensión y usabilidad de los notebooks.
-  - Incorporar devoluciones de otros grupos.
-- **Plazos:** 
-  - Semana 4 (del 1 al 8 de noviembre): finalización de la tercera notebook.
-  - Semana 5 (del 9 al 16 de noviembre): formularios y pruebas con usuarios.
-  - Semana 6 (del 17 al 24 de noviembre): incorporación de devoluciones, pulido final de las notebooks y redacción del informe final.
-  - Semana 7 (del 25 al 1 de diciembre): revisión final y entrega.
+## Trabajo futuro
+
+Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo largo de este proceso, hemos dejado a un lado algunas ideas y mejoras para nuestro proyecto. Si tuvieramos un equipo de cinco personas trabajando tiempo completo en este proyecto, nos abocaríamos a completar las tareas a continuación: 
+
+- Seleccionar un par de modelos de generación de texto en español, que sean ligeros y adecuados para parametrizar los notebooks.  
+- Realizar pruebas con usuarios y recopilar su retroalimentación para mejorar los contenidos y enfoques.  
+- Adaptar el taller a las necesidades específicas del público objetivo, considerando que las expectativas y requerimientos varían entre grupos, como Ciencias Sociales o Ingeniería.  
+- Incluir preguntas abiertas, de opción múltiple y/o de verdadero o falso, integrándolas entre los temas de los notebooks para reforzar el aprendizaje.  
 
 ## Conclusión
-- **Conclusión provisional:** El proyecto está progresando según lo planeado. Se ha avanzado significativamente en la creación de notebooks accesibles y comprensibles, con dos de tres notebooks casi completas. Las pruebas con usuarios y los formularios de feedback serán clave para evaluar la comprensión y usabilidad de las herramientas desarrolladas.
+
+
+Todo joya y vamos por más.
