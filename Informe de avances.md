@@ -1,6 +1,6 @@
 # Democratizando los LLMs: Un enfoque práctico para principiantes
 
-![Banner](banner_democrtizando_llms.png)
+# Informe de Avances del Proyecto
 
 ## Resumen
 
@@ -79,3 +79,4 @@ La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usua
 
 ## Conclusión
 - **Conclusión provisional:** El proyecto está progresando según lo planeado. Se ha avanzado significativamente en la creación de notebooks accesibles y comprensibles, con dos de tres notebooks casi completas. Las pruebas con usuarios y los formularios de feedback serán clave para evaluar la comprensión y usabilidad de las herramientas desarrolladas.
+
