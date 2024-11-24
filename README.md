@@ -30,8 +30,10 @@ La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usua
   - Semana 1: Notebook 1 - Hugging Face y Librerías.
   - Semana 2: Notebook 2 - Datasets y Tokenización.
   - Semana 3: Notebook 3 - Entrenamiento y Prueba del Modelo Nuevo.
-  - Semana 4: Documentación de las notebooks.
-  - Semana 5: Incorporación de devoluciones de otros grupos.
+  - Semana 4: finalización de la tercera notebook.
+  - Semana 5: formularios y pruebas con usuarios.
+  - Semana 6: incorporación de devoluciones nuevas, pulido final de las notebooks y redacción del informe final.
+  - Semana 7: revisión final y entrega.
 - **Desviaciones:** No se han presentado desviaciones significativas, y el desarrollo avanzó según lo planificado. Los cambios han sido en relación al ritmo de trabajo. Particularmente, hemos trabajado en la documentación de los notebooks en paralelo con la implementación del código, anticipando el estado final de los mismos.
   
 ## Exploración de librerías y codebases
