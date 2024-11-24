@@ -23,6 +23,10 @@
 
 Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para personas sin experiencia técnica, utilizando Google Colab y Jupyter sin necesidad de APIs de terceros. El objetivo es facilitar el fine-tuning/personalización de LLMs y el resumen automático de textos, permitiendo a los usuarios trabajar con conjuntos de datos propios manteniendo la privacidad. Se proporcionará un entorno pedagógico para el ajuste de hiperparámetros, preprocesamiento y evaluación sistemática de modelos, diseñado para facilitar la experimentación rápida con modelos de lenguaje avanzados sin necesidad de grandes infraestructuras.
 
+### Presentación del poyecto
+
+Las filminas están disponibles en el repositorio en la carpeta `docs` bajo el nombre `presentacion.pdf`. Recomendamos revisarlas para obtener una visión general rápida del proyecto.
+
 <!-- TOC --><a name="hipótesis"></a>
 ## Hipótesis
 
