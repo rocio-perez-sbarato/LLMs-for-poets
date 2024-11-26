@@ -6,7 +6,7 @@
 
 - [Democratizando los LLMs: un enfoque práctico para principiantes](#democratizando-los-llms-un-enfoque-práctico-para-principiantes)
   - [Resumen](#resumen)
-    - [Presentación del poyecto](#presentación-del-poyecto)
+    - [Presentación del proyecto](#presentación-del-proyecto)
   - [Hipótesis](#hipótesis)
   - [Objetivos preliminares](#objetivos-preliminares)
   - [Relación entre la hipótesis y los objetivos iniciales y el estado final alcanzado](#relación-entre-la-hipótesis-y-los-objetivos-iniciales-y-el-estado-final-alcanzado)
@@ -26,7 +26,7 @@
 
 Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para personas sin experiencia técnica, utilizando Google Colab y Jupyter sin necesidad de APIs de terceros. El objetivo es facilitar el fine-tuning/personalización de LLMs y el resumen automático de textos, permitiendo a los usuarios trabajar con conjuntos de datos propios manteniendo la privacidad. Se proporcionará un entorno pedagógico para el ajuste de hiperparámetros, preprocesamiento y evaluación sistemática de modelos, diseñado para facilitar la experimentación rápida con modelos de lenguaje avanzados sin necesidad de grandes infraestructuras.
 
-### Presentación del poyecto
+### Presentación del proyecto
 
 Las filminas están disponibles en el repositorio en la carpeta `docs` bajo el nombre `presentación.pdf`. Recomendamos revisarlas para obtener una visión general rápida del proyecto.
 
@@ -107,18 +107,18 @@ El éxito del proyecto se medirá principalmente a través de preguntas abiertas
 
 Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo largo de este proceso, hemos dejado a un lado algunas ideas y mejoras para nuestro proyecto. Si tuvieramos un equipo de cinco personas trabajando tiempo completo en este proyecto, nos abocaríamos a completar las tareas a continuación: 
 
-- Seleccionar un par de modelos de generación de texto en español, que sean ligeros y adecuados para parametrizar los notebooks.  
-- Definición de criterios de evaluación de los talleres
-- Incluir tanto preguntas abiertas como de opción múltiple y/o de verdadero o falso, integrándolas entre los temas de los notebooks para reforzar el aprendizaje.  
-- Realizar pruebas con usuarios y recopilar su retroalimentación para mejorar los contenidos y enfoques. Idealmente luego de cada mejora gradual y/o incorporación de comentarios.
-- Monitorear la adopción de los talleres y su impacto
-  - Diseño de métricas de evaluación
-  - Recopilación y análisis de datos
-  - Iteraciones previas a los talleres en función de resultados 
-- Investigar posibles espacios de inserción de esta metodología de aprendizaje y democratización de procesamiento de lenguaje natural.
-- Adaptar el taller a las necesidades específicas de a lo sumo dos públicos interesados, considerando que las expectativas y requerimientos varían entre la formación de estos grupos.  
-  - Diseñar un módulo introductorio si es necesario, condensando la información de los primeros 3 notebooks realizados.
-- Creación de un repositorio centralizado con los talleres hechos a medida y ejemplos aplicados.
+1. Seleccionar un par de modelos de generación de texto en español, que sean ligeros y adecuados para parametrizar los notebooks.  
+2. Incluir tanto preguntas abiertas como de opción múltiple y/o de verdadero o falso, integrándolas entre los temas de los notebooks para reforzar el aprendizaje.  
+3. Idealmente luego de cada mejora gradual y/o incorporación de comentarios, realizar pruebas con usuarios y recopilar su retroalimentación para mejorar los contenidos y enfoques. 
+4. Monitorear la adopción de los talleres y su impacto
+   - Diseño de métricas de evaluación
+   -  Recopilación y análisis de datos
+   - Iteraciones previas a los talleres en función de resultados 
+5. Investigar posibles espacios de inserción de esta metodología de aprendizaje y democratización de procesamiento de lenguaje natural.
+6. Adaptar el taller a las necesidades específicas de a lo sumo dos perfiles interesados, considerando que las expectativas y requerimientos varían entre la formación de estos grupos.  
+   - Diseñar un módulo introductorio si es necesario, condensando la información de los primeros 3 notebooks realizados.
+7. Definición de criterios de evaluación de los talleres.
+8. Creación de un repositorio centralizado con los talleres hechos a medida y ejemplos aplicados.
 
 | Actividad                         | Mes 1 | Mes 2 | Mes 3 | Mes 4 | Mes 5 | Mes 6 | Mes 7 | Mes 8 | Mes 9 | Mes 10 | Mes 11 | Mes 12 |
 |-----------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
