@@ -117,21 +117,21 @@ Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo l
   - Iteraciones previas a los talleres en función de resultados 
 - Investigar posibles espacios de inserción de esta metodología de aprendizaje y democratización de procesamiento de lenguaje natural.
 - Adaptar el taller a las necesidades específicas de a lo sumo dos públicos interesados, considerando que las expectativas y requerimientos varían entre la formación de estos grupos.  
-  - Diseñar un módulo introductorio si es necesario, condensando la información de los primeros 3 notebooks realizados,
-- Creación de un repositorio centralizado con los talleres hechos a medida y ejemplos aplicados
+  - Diseñar un módulo introductorio si es necesario, condensando la información de los primeros 3 notebooks realizados.
+- Creación de un repositorio centralizado con los talleres hechos a medida y ejemplos aplicados.
 
-| Actividad                                              | Mes 1 | Mes 2 | Mes 3 | Mes 4 | Mes 5 | Mes 6 | Mes 7 | Mes 8 | Mes 9 | Mes 10 | Mes 11 | Mes 12 |
-|--------------------------------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
-| **Selección y parametrización de modelos**             |   X   |   X   |       |       |       |       |       |       |       |        |        |        |
-| **Definición de criterios de evaluación**              |   X   |   X   |       |       |       |       |   X   |   X   |       |        |        |        |
-| **Integración de preguntas interactivas**              |   X   |   X   |       |       |       |       |       |   X   |   X   |   X    |        |        |
-| **Monitoreo del impacto y evaluación de éxito**        |       |       |   X   |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X    |   X    |
-| **Pruebas del proyecto inicial**                       |       |       |   X   |   X   |   X   |   X   |   X   |   X   |       |        |        |        |
-| **Exploración de nuevas aplicaciones y espacios**      |       |       |       |       |   X   |   X   |   X   |       |       |        |        |        |
-| **Diseño de módulo introductorio**                     |       |       |       |       |   X   |   X   |       |       |       |        |        |        |
-| **Adaptación a públicos específicos**                  |       |       |       |       |       |       |   X   |   X   |   X   |        |        |        |
-| **Pruebas de los talleres hechos a medida**            |       |       |       |       |       |       |       |       |   X   |   X    |   X    |   X    |
-| **Creación de repositorio centralizado**               |       |       |       |       |       |       |       |       |   X   |   X    |        |        |
+| Actividad                         | Mes 1 | Mes 2 | Mes 3 | Mes 4 | Mes 5 | Mes 6 | Mes 7 | Mes 8 | Mes 9 | Mes 10 | Mes 11 | Mes 12 |
+|-----------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
+| **Parametrización**               |   X   |   X   |       |       |       |       |       |       |       |        |        |        |
+| **Criterios de éxito**            |   X   |   X   |       |       |       |       |   X   |   X   |       |        |        |        |
+| **Preguntas interactivas**        |   X   |   X   |       |       |       |       |       |   X   |   X   |   X    |        |        |
+| **Monitoreo**                     |       |       |   X   |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X    |   X    |
+| **Pruebas de proyecto inicial**   |       |       |   X   |   X   |   X   |   X   |   X   |   X   |       |        |        |        |
+| **Exploración**                   |       |       |       |       |   X   |   X   |   X   |       |       |        |        |        |
+| **Módulo introductorio**          |       |       |       |       |   X   |   X   |       |       |       |        |        |        |
+| **Adaptación**                    |       |       |       |       |       |       |   X   |   X   |   X   |        |        |        |
+| **Talleres hechos a medida**      |       |       |       |       |       |       |       |       |   X   |   X    |   X    |   X    |
+| **Repositorio centralizado**      |       |       |       |       |       |       |       |   X   |   X   |        |        |        |
 
 <!-- TOC --><a name="relación-con-otras-áreas-de-PLN"></a>
 ## Relación con otras áreas de aprendizaje automática y procesamiento de lenguaje natural 
