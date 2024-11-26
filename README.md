@@ -108,27 +108,29 @@ El éxito del proyecto se medirá principalmente a través de preguntas abiertas
 Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo largo de este proceso, hemos dejado a un lado algunas ideas y mejoras para nuestro proyecto. Si tuvieramos un equipo de cinco personas trabajando tiempo completo en este proyecto, nos abocaríamos a completar las tareas a continuación: 
 
 1. Seleccionar un par de modelos de generación de texto en español, que sean ligeros y adecuados para parametrizar los notebooks.  
-2. Incluir tanto preguntas abiertas como de opción múltiple y/o de verdadero o falso, integrándolas entre los temas de los notebooks para reforzar el aprendizaje.  
+2. En pos de complementar los datos recopilados en los formularios de feedback, sería interesante incluir:
+   1. tanto preguntas abiertas como de opción múltiple y/o de verdadero o falso, integrándolas entre los temas de los notebooks para reforzar el aprendizaje.  
+   2. actividades de discusión y construcción grupales.
 3. Idealmente luego de cada mejora gradual y/o incorporación de comentarios, realizar pruebas con usuarios y recopilar su retroalimentación para mejorar los contenidos y enfoques. 
-4. Monitorear la adopción de los talleres y su impacto
-   - Diseño de métricas de evaluación
-   -  Recopilación y análisis de datos
-   - Iteraciones previas a los talleres en función de resultados 
+4. Monitorear la adopción de los talleres y su impacto.
+   1. Diseño de métricas de evaluación.
+   2. Recopilación y análisis de datos.
+   3. Iteraciones previas a los talleres en función de resultados.
 5. Investigar posibles espacios de inserción de esta metodología de aprendizaje y democratización de procesamiento de lenguaje natural.
 6. Adaptar el taller a las necesidades específicas de a lo sumo dos perfiles interesados, considerando que las expectativas y requerimientos varían entre la formación de estos grupos.  
-   - Diseñar un módulo introductorio si es necesario, condensando la información de los primeros 3 notebooks realizados.
+   1. Diseñar un módulo introductorio si es necesario, condensando la información de los primeros 3 notebooks realizados.
 7. Definición de criterios de evaluación de los talleres.
 8. Creación de un repositorio centralizado con los talleres hechos a medida y ejemplos aplicados.
 
 | Actividad                         | Mes 1 | Mes 2 | Mes 3 | Mes 4 | Mes 5 | Mes 6 | Mes 7 | Mes 8 | Mes 9 | Mes 10 | Mes 11 | Mes 12 |
 |-----------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **Parametrización**               |   X   |   X   |       |       |       |       |       |       |       |        |        |        |
-| **Criterios de éxito**            |   X   |   X   |       |       |       |       |   X   |   X   |       |        |        |        |
 | **Preguntas interactivas**        |   X   |   X   |       |       |       |       |       |   X   |   X   |   X    |        |        |
 | **Monitoreo**                     |       |       |   X   |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X    |   X    |
 | **Pruebas de proyecto inicial**   |       |       |   X   |   X   |   X   |   X   |   X   |   X   |       |        |        |        |
 | **Exploración**                   |       |       |       |       |   X   |   X   |   X   |       |       |        |        |        |
 | **Módulo introductorio**          |       |       |       |       |   X   |   X   |       |       |       |        |        |        |
+| **Criterios de éxito**            |       |       |       |       |       |       |   X   |   X   |       |        |        |        |
 | **Adaptación**                    |       |       |       |       |       |       |   X   |   X   |   X   |        |        |        |
 | **Talleres hechos a medida**      |       |       |       |       |       |       |       |       |   X   |   X    |   X    |   X    |
 | **Repositorio centralizado**      |       |       |       |       |       |       |       |   X   |   X   |        |        |        |
