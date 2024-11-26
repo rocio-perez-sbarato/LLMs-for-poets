@@ -119,13 +119,13 @@ Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo l
 5. Investigar posibles espacios de inserción de esta metodología de aprendizaje y democratización de procesamiento de lenguaje natural.
 6. Adaptar el taller a las necesidades específicas de a lo sumo dos perfiles interesados, considerando que las expectativas y requerimientos varían entre la formación de estos grupos.  
    1. Diseñar un módulo introductorio si es necesario, condensando la información de los primeros 3 notebooks realizados.
-7. Definición de criterios de evaluación de los talleres.
+7. Definición de criterios de evaluación de los talleres hechos a medida.
 8. Creación de un repositorio centralizado con los talleres hechos a medida y ejemplos aplicados.
 
 | Actividad                         | Mes 1 | Mes 2 | Mes 3 | Mes 4 | Mes 5 | Mes 6 | Mes 7 | Mes 8 | Mes 9 | Mes 10 | Mes 11 | Mes 12 |
 |-----------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **Parametrización**               |   X   |   X   |       |       |       |       |       |       |       |        |        |        |
-| **Preguntas interactivas**        |   X   |   X   |       |       |       |       |       |   X   |   X   |   X    |        |        |
+| **Actividades interactivas**      |   X   |   X   |       |       |       |       |       |   X   |   X   |   X    |        |        |
 | **Monitoreo**                     |       |       |   X   |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X    |   X    |
 | **Pruebas de proyecto inicial**   |       |       |   X   |   X   |   X   |   X   |   X   |   X   |       |        |        |        |
 | **Exploración**                   |       |       |       |       |   X   |   X   |   X   |       |       |        |        |        |
