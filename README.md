@@ -1,20 +1,23 @@
 # Democratizando los LLMs: un enfoque práctico para principiantes
 
-![Banner](banner_democrtizando_llms.png)
+![Banner](banner_democratizando_llms.png)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Resumen](#resumen)
-- [Hipótesis](#hipótesis)
-- [Objetivos preliminares](#objetivos-preliminares)
-- [Relación entre la hipótesis y los objetivos iniciales y el estado final alcanzado](#relación-entre-la-hipótesis-y-los-objetivos-iniciales-y-el-estado-final-alcanzado)
-- [Relación entre la planificación inicial y la ejecución efectiva](#relación-entre-la-planificación-inicial-y-la-ejecución-efectiva)
-- [Exploración de librerías y codebases](#exploración-de-librerías-y-codebases)
-- [Referencias](#referencias)
-- [Devoluciones y comentarios de otros grupos](#devoluciones-y-comentarios-de-otros-grupos)
-   * [Evaluación del éxito del proyecto](#evaluación-del-éxito-del-proyecto)
-- [Trabajo futuro](#trabajo-futuro)
-- [Conclusión](#conclusión)
+- [Democratizando los LLMs: un enfoque práctico para principiantes](#democratizando-los-llms-un-enfoque-práctico-para-principiantes)
+  - [Resumen](#resumen)
+    - [Presentación del poyecto](#presentación-del-poyecto)
+  - [Hipótesis](#hipótesis)
+  - [Objetivos preliminares](#objetivos-preliminares)
+  - [Relación entre la hipótesis y los objetivos iniciales y el estado final alcanzado](#relación-entre-la-hipótesis-y-los-objetivos-iniciales-y-el-estado-final-alcanzado)
+  - [Relación entre la planificación inicial y la ejecución efectiva](#relación-entre-la-planificación-inicial-y-la-ejecución-efectiva)
+  - [Exploración de librerías y codebases](#exploración-de-librerías-y-codebases)
+  - [Referencias](#referencias)
+  - [Devoluciones y comentarios de otros grupos](#devoluciones-y-comentarios-de-otros-grupos)
+    - [Evaluación del éxito del proyecto](#evaluación-del-éxito-del-proyecto)
+  - [Trabajo futuro](#trabajo-futuro)
+  - [Relación con otras áreas de PLN](#relación-con-otras-áreas-de-pln)
+  - [Conclusión](#conclusión)
 
 <!-- TOC end -->
 
@@ -25,7 +28,7 @@ Este proyecto se enfoca en desarrollar notebooks interactivas accesibles para pe
 
 ### Presentación del poyecto
 
-Las filminas están disponibles en el repositorio en la carpeta `docs` bajo el nombre `presentacion.pdf`. Recomendamos revisarlas para obtener una visión general rápida del proyecto.
+Las filminas están disponibles en el repositorio en la carpeta `docs` bajo el nombre `presentación.pdf`. Recomendamos revisarlas para obtener una visión general rápida del proyecto.
 
 <!-- TOC --><a name="hipótesis"></a>
 ## Hipótesis
@@ -50,7 +53,7 @@ La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usua
 <!-- TOC --><a name="relación-entre-la-hipótesis-y-los-objetivos-iniciales-y-el-estado-final-alcanzado"></a>
 ## Relación entre la hipótesis y los objetivos iniciales y el estado final alcanzado
 
-La relación entre las hipótesis, los objetivos y el resultado final del proyecto aún no puede evaluarse por completo, ya que no se han realizado pruebas con usuarios. Sin embargo, los avances logrados reflejan un cumplimiento significativo de los objetivos técnicos y pedagógicos. Las notebooks desarrolladas abordan las hipótesis iniciales, como facilitar el fine-tuning y el trabajo seguro con datasets privados, además de fomentar la experimentación y la toma de decisiones informada.
+La relación entre las hipótesis, los objetivos y el resultado final del proyecto aún no puede evaluarse por completo, ya que no se han realizado pruebas con usuarios. Sin embargo, los avances logrados reflejan un cumplimiento significativo de los objetivos técnicos y didácticos. Las notebooks desarrolladas abordan los objetivos iniciales, como facilitar el fine-tuning y el trabajo seguro con datasets privados, además de fomentar la práctica y la exploración.
 
 <!-- TOC --><a name="relación-entre-la-planificación-inicial-y-la-ejecución-efectiva"></a>
 ## Relación entre la planificación inicial y la ejecución efectiva
@@ -108,6 +111,11 @@ Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo l
 - Realizar pruebas con usuarios y recopilar su retroalimentación para mejorar los contenidos y enfoques.  
 - Adaptar el taller a las necesidades específicas de un cierto público objetivo, considerando que las expectativas y requerimientos varían entre grupos, como Ciencias Sociales o Ingeniería.  
 - Incluir preguntas abiertas, de opción múltiple y/o de verdadero o falso, integrándolas entre los temas de los notebooks para reforzar el aprendizaje.  
+
+<!-- TOC --><a name="relación-con-otras-áreas-de-PLN"></a>
+## Relación con otras áreas de PLN
+
+Nuestro proyecto, al tener objetivos didácticos e introductorios, conecta diversas áreas clave del aprendizaje automático y el procesamiento del lenguaje natural. Utilizamos técnicas de fine-tuning para adaptar modelos preentrenados y técnicas de evaluación para estos modelos, además de prácticas esenciales como el preprocesamiento y la tokenización. Promovemos la ética y privacidad, trabajando con datos locales y brindando un enfoque simple de la IA. También abarcamos tareas fundamentales del PLN, como análisis de sentimientos, generación y traducción de texto, y facilitamos el acceso a estas herramientas mediante Hugging Face, democratizando su uso. 
 
 <!-- TOC --><a name="conclusión"></a>
 ## Conclusión
