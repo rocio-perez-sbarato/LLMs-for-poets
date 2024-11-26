@@ -16,7 +16,7 @@
   - [Devoluciones y comentarios de otros grupos](#devoluciones-y-comentarios-de-otros-grupos)
     - [Evaluación del éxito del proyecto](#evaluación-del-éxito-del-proyecto)
   - [Trabajo futuro](#trabajo-futuro)
-  - [Relación con otras áreas de PLN](#relación-con-otras-áreas-de-pln)
+  - [Relación con otras áreas de aprendizaje automática y procesamiento de lenguaje natural](#relación-con-otras-áreas-de-aprendizaje-automática-y-procesamiento-de-lenguaje-natural)
   - [Conclusión](#conclusión)
 
 <!-- TOC end -->
@@ -53,7 +53,7 @@ La creación de notebooks interactivas y accesibles sobre LLMs permitirá a usua
 <!-- TOC --><a name="relación-entre-la-hipótesis-y-los-objetivos-iniciales-y-el-estado-final-alcanzado"></a>
 ## Relación entre la hipótesis y los objetivos iniciales y el estado final alcanzado
 
-La relación entre las hipótesis, los objetivos y el resultado final del proyecto aún no puede evaluarse por completo, ya que no se han realizado pruebas con usuarios. Sin embargo, los avances logrados reflejan un cumplimiento significativo de los objetivos técnicos y didácticos. Las notebooks desarrolladas abordan los objetivos iniciales, como facilitar el fine-tuning y el trabajo seguro con datasets privados, además de fomentar la práctica y la exploración.
+La relación entre las hipótesis, los objetivos y el resultado final del proyecto aún no puede evaluarse por completo, ya que no se han realizado pruebas con usuarios. Sin embargo, los avances logrados reflejan un cumplimiento significativo de los objetivos técnicos y didácticos. Las notebooks desarrolladas abordan los objetivos iniciales, como facilitar el fine-tuning y el trabajo seguro con datasets privados, además de fomentar la práctica y la exploración mediante ejemplos de código.
 
 <!-- TOC --><a name="relación-entre-la-planificación-inicial-y-la-ejecución-efectiva"></a>
 ## Relación entre la planificación inicial y la ejecución efectiva
@@ -96,7 +96,7 @@ Para abordar estas críticas, incluiremos recursos adicionales, principalmente d
 <!-- TOC --><a name="evaluación-del-éxito-del-proyecto"></a>
 ### Evaluación del éxito del proyecto
 
-Decidimos implementar **formularios de feedback** al final de cada notebook para que los usuarios puedan evaluar su experiencia, dificultades y comprensión de los conceptos. Estos formularios recogerán datos cuantitativos y cualitativos, que usaremos para ajustar las notebooks en la fase final.
+Decidimos implementar formularios de feedback al final de cada notebook para que los usuarios puedan evaluar su experiencia, dificultades y comprensión de los conceptos. Estos formularios recogerán datos cuantitativos y cualitativos, que usaremos para ajustar las notebooks en la fase final.
 
 El éxito del proyecto se medirá principalmente a través de preguntas abiertas y puntuales en torno a los siguientes ejes:
   - **Nivel de comprensión:** Evaluar si los usuarios pueden seguir los ejemplos y ejecutar las tareas propuestas sin mayor dificultad.
@@ -113,7 +113,7 @@ Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo l
 - Incluir preguntas abiertas, de opción múltiple y/o de verdadero o falso, integrándolas entre los temas de los notebooks para reforzar el aprendizaje.  
 
 <!-- TOC --><a name="relación-con-otras-áreas-de-PLN"></a>
-## Relación con otras áreas de PLN
+## Relación con otras áreas de aprendizaje automática y procesamiento de lenguaje natural 
 
 Nuestro proyecto, al tener objetivos didácticos e introductorios, conecta diversas áreas clave del aprendizaje automático y el procesamiento del lenguaje natural. Utilizamos técnicas de fine-tuning para adaptar modelos preentrenados y técnicas de evaluación para estos modelos, además de prácticas esenciales como el preprocesamiento y la tokenización. Promovemos la ética y privacidad, trabajando con datos locales y brindando un enfoque simple de la IA. También abarcamos tareas fundamentales del PLN, como análisis de sentimientos, generación y traducción de texto, y facilitamos el acceso a estas herramientas mediante Hugging Face, democratizando su uso. 
 
