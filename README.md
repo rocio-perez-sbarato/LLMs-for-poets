@@ -16,6 +16,8 @@
   - [Devoluciones y comentarios de otros grupos](#devoluciones-y-comentarios-de-otros-grupos)
     - [Evaluación del éxito del proyecto](#evaluación-del-éxito-del-proyecto)
   - [Trabajo futuro](#trabajo-futuro)
+    - [Objetivos e hipótesis](#objetivos-e-hipótesis)
+    - [Tareas](#tareas)
   - [Relación con otras áreas de aprendizaje automática y procesamiento de lenguaje natural](#relación-con-otras-áreas-de-aprendizaje-automática-y-procesamiento-de-lenguaje-natural)
   - [Conclusión](#conclusión)
 
@@ -105,22 +107,67 @@ El éxito del proyecto se medirá principalmente a través de preguntas abiertas
 <!-- TOC --><a name="trabajo-futuro"></a>
 ## Trabajo futuro
 
-Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo largo de este proceso, hemos dejado a un lado algunas ideas y mejoras para nuestro proyecto. Si tuvieramos un equipo de cinco personas trabajando tiempo completo en este proyecto, nos abocaríamos a completar las tareas a continuación: 
+Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo largo de este proceso, hemos dejado a un lado algunas ideas y mejoras para nuestro proyecto. 
+Si tuvieramos un equipo de cinco personas trabajando tiempo completo en este proyecto durante un año, nos abocaríamos a completar nuestros notebooks actuales y a sumar nuevos proyectos con objetivos similares.
 
-1. Seleccionar un par de modelos de generación de texto en español, que sean ligeros y adecuados para parametrizar los notebooks.  
-2. En pos de complementar los datos recopilados en los formularios de feedback, sería interesante incluir:
-   1. tanto preguntas abiertas como de opción múltiple y/o de verdadero o falso, integrándolas entre los temas de los notebooks para reforzar el aprendizaje.  
-   2. actividades de discusión y construcción grupales.
-3. Idealmente luego de cada mejora gradual y/o incorporación de comentarios, realizar pruebas con usuarios y recopilar su retroalimentación para mejorar los contenidos y enfoques. 
-4. Monitorear la adopción de los talleres y su impacto.
-   1. Diseño de métricas de evaluación.
-   2. Recopilación y análisis de datos.
-   3. Iteraciones previas a los talleres en función de resultados.
-5. Investigar posibles espacios de inserción de esta metodología de aprendizaje y democratización de procesamiento de lenguaje natural.
-6. Adaptar el taller a las necesidades específicas de a lo sumo dos perfiles interesados, considerando que las expectativas y requerimientos varían entre la formación de estos grupos.  
-   1. Diseñar un módulo introductorio si es necesario, condensando la información de los primeros 3 notebooks realizados.
-7. Definición de criterios de evaluación de los talleres hechos a medida.
-8. Creación de un repositorio centralizado con los talleres hechos a medida y ejemplos aplicados.
+### Objetivos e hipótesis
+Sumados a los objetivos iniciales, los objetivos para la continuación del proyecto serían los siguientes:
+
+1. Desarrollar talleres accesibles y personalizables para democratizar el uso de modelos de lenguaje natural.
+2. Fomentar un aprendizaje interactivo y colaborativo.
+3. Optimizar y evaluar el impacto del proyecto de forma continua.
+4. Incorporar mejoras basadas en el feedback de usuarios, medir la efectividad de los talleres y realizar ajustes para maximizar su alcance y utilidad.
+5. Investigar y minimizar la huella de carbono asociada al entrenamiento y uso de modelos, fomentando la sostenibilidad tecnológica.
+6. Explorar oportunidades de impacto e inserción del proyecto en comunidades específicas.
+
+Asimismo, sumadas a las hipótesis iniciales, consideramos que la creación de notebooks interactivas y accesibles sobre LLMs permitirá a usuarios sin experiencia técnica 
+
+1. Colaborar y compartir conocimientos dentro de una comunidad en crecimiento, promoviendo el aprendizaje colectivo y la democratización del procesamiento de lenguaje natural.
+2. Explorar el impacto ambiental del uso de LLMs y adoptar prácticas más sostenibles en sus proyectos.
+3. Adaptar las herramientas y metodologías aprendidas a sus propios contextos, ampliando el alcance de los LLMs más allá de casos de uso de ejemplo.
+4. Capacitar a equipos internos en el uso de estas herramientas, extendiendo el conocimiento adquirido a nivel organizacional y facilitando la integración de LLMs en procesos existentes.
+5. Construir capacidades de autoaprendizaje, al proporcionarles plantillas y ejemplos que puedan modificar según nuevos desafíos.
+
+### Tareas 
+
+1. **Selección de modelos ligeros en español para generación de texto**  
+   - Identificar modelos preentrenados eficientes y optimizados para tareas de generación en español, garantizando accesibilidad y compatibilidad con equipos de bajo rendimiento.  
+
+2. **Diseño de estrategias para recopilar feedback efectivo**  
+   1. **Incorporación de preguntas interactivas para evaluar el aprendizaje**  
+      - Añadir preguntas abiertas, de opción múltiple y verdadero o falso directamente en los notebooks para reforzar conceptos clave y evaluar la comprensión de los usuarios.  
+
+3. **Integración de actividades colaborativas en los talleres**  
+   - Proponer ejercicios grupales que fomenten la discusión, el análisis colectivo y la construcción de soluciones prácticas.  
+
+4. **Iteración constante basada en feedback de usuarios**  
+   - Después de cada mejora o adición de comentarios, realizar pruebas piloto para evaluar la efectividad de los cambios y ajustar los notebooks según las necesidades detectadas.  
+
+5. **Monitoreo de impacto y adopción de los talleres**  
+   1. **Definición de métricas claras de evaluación**  
+      - Establecer indicadores para medir el alcance, efectividad y satisfacción de los participantes.  
+   2. **Análisis de datos sobre el desempeño y utilidad de los talleres**  
+      - Recopilar información cuantitativa y cualitativa para identificar puntos fuertes y áreas de mejora.  
+   3. **Iteraciones continuas en función de los resultados obtenidos**  
+      - Refinar los contenidos y estrategias de los talleres basándose en datos recopilados antes de su implementación general.  
+
+6. **Contabilizar la huella de carbono del desarrollo y el uso de los talleres**
+   - Explorar y analizar el impacto ambiental generado durante el desarrollo, implementación y uso de los talleres, considerando tanto el consumo energético de los modelos como los recursos utilizados.
+
+7. **Exploración de oportunidades para expandir la metodología**  
+   - Identificar comunidades, instituciones o eventos donde estos talleres puedan ser útiles para democratizar el acceso al procesamiento de lenguaje natural.  
+
+8. **Personalización de talleres para perfiles específicos**  
+   - Diseñar contenidos adaptados a las necesidades y expectativas de hasta dos perfiles distintos, maximizando su utilidad.  
+  1. **Creación de un módulo introductorio condensado**  
+     - Proveer una introducción accesible para usuarios con menos experiencia técnica, basada en los tres primeros notebooks del proyecto inicial.  
+
+9. **Definición de criterios de evaluación para talleres personalizados**  
+   - Establecer parámetros para medir el éxito y la relevancia de los talleres diseñados a medida, como la retención de conocimientos o la capacidad de aplicarlos.  
+
+10. **Creación de un repositorio centralizado de recursos y ejemplos prácticos**  
+   - Organizar todos los talleres, notebooks y ejemplos aplicados en una plataforma accesible y bien estructurada para fomentar su reutilización.  
+
 
 | Actividad                         | Mes 1 | Mes 2 | Mes 3 | Mes 4 | Mes 5 | Mes 6 | Mes 7 | Mes 8 | Mes 9 | Mes 10 | Mes 11 | Mes 12 |
 |-----------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
@@ -128,6 +175,7 @@ Hemos alcanzado los objetivos planteados para esta instancia del trabajo. A lo l
 | **Actividades interactivas**      |   X   |   X   |       |       |       |       |       |   X   |   X   |   X    |        |        |
 | **Monitoreo**                     |       |       |   X   |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X    |   X    |
 | **Pruebas de proyecto inicial**   |       |       |   X   |   X   |   X   |   X   |   X   |   X   |       |        |        |        |
+| **Huella de carbono**             |       |       |   X   |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X    |   X    |
 | **Exploración**                   |       |       |       |       |   X   |   X   |   X   |       |       |        |        |        |
 | **Módulo introductorio**          |       |       |       |       |   X   |   X   |       |       |       |        |        |        |
 | **Criterios de éxito**            |       |       |       |       |       |       |   X   |   X   |       |        |        |        |
