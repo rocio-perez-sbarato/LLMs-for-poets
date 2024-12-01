@@ -120,7 +120,7 @@ Sumados a los objetivos iniciales, los objetivos para la continuación del proye
 5. Investigar y minimizar la huella de carbono asociada al entrenamiento y uso de modelos, fomentando la sostenibilidad tecnológica.
 6. Explorar oportunidades de impacto e inserción del proyecto en comunidades específicas.
 
-Asimismo, sumadas a las hipótesis iniciales, consideramos que la creación de notebooks interactivas y accesibles sobre LLMs permitirá a usuarios sin experiencia técnica 
+Asimismo, sumadas a las hipótesis iniciales, consideramos que la creación de notebooks interactivas y accesibles sobre LLMs permitirá a usuarios sin experiencia técnica a
 
 1. Colaborar y compartir conocimientos dentro de una comunidad en crecimiento, promoviendo el aprendizaje colectivo y la democratización del procesamiento de lenguaje natural.
 2. Explorar el impacto ambiental del uso de LLMs y adoptar prácticas más sostenibles en sus proyectos.
@@ -130,8 +130,8 @@ Asimismo, sumadas a las hipótesis iniciales, consideramos que la creación de n
 
 ### Tareas 
 
-1. **Selección de modelos ligeros en español para generación de texto**  
-   - Identificar modelos preentrenados eficientes y optimizados para tareas de generación en español, garantizando accesibilidad y compatibilidad con equipos de bajo rendimiento.  
+1. **Parametrizar la serie de notebooks realizados**  
+   - Parametrizar mediante modelos preentrenados eficientes y optimizados para tareas de generación en español, garantizando accesibilidad y compatibilidad con equipos de bajo rendimiento.  
 
 2. **Diseño de estrategias para recopilar feedback efectivo**  
    1. **Incorporación de preguntas interactivas para evaluar el aprendizaje**  
