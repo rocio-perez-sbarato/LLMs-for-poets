@@ -130,6 +130,8 @@ Asimismo, sumadas a las hipótesis iniciales, consideramos que la creación de n
 
 ### Tareas 
 
+Además de las tareas inicialmente planteadas, proponemos las siguientes para la continuación del proyecto:
+
 1. **Parametrizar la serie de notebooks realizados**  
    - Parametrizar mediante modelos preentrenados eficientes y optimizados para tareas de generación en español, garantizando accesibilidad y compatibilidad con equipos de bajo rendimiento.  
 
@@ -184,9 +186,16 @@ Asimismo, sumadas a las hipótesis iniciales, consideramos que la creación de n
 | **Repositorio centralizado**      |       |       |       |       |       |       |       |   X   |   X   |        |        |        |
 
 <!-- TOC --><a name="relación-con-otras-áreas-de-PLN"></a>
-## Relación con otras áreas de aprendizaje automática y procesamiento de lenguaje natural 
+## Relación con otras áreas de aprendizaje automático y procesamiento de lenguaje natural 
 
-Nuestro proyecto, al tener objetivos didácticos e introductorios, conecta diversas áreas clave del aprendizaje automático y el procesamiento del lenguaje natural. Utilizamos técnicas de fine-tuning para adaptar modelos preentrenados y técnicas de evaluación para estos modelos, además de prácticas esenciales como el preprocesamiento y la tokenización. Promovemos la ética y privacidad, trabajando con datos locales y brindando un enfoque simple de la IA. También abarcamos tareas fundamentales del PLN, como análisis de sentimientos, generación y traducción de texto, y facilitamos el acceso a estas herramientas mediante Hugging Face, democratizando su uso. 
+Nuestro proyecto, al tener objetivos didácticos e introductorios, conecta diversas áreas clave del aprendizaje automático y el procesamiento del lenguaje natural:
+
+1. Técnicas fundamentales de PLN: Abarcamos tareas esenciales como análisis de sentimientos, generación y traducción de texto, además de prácticas fundamentales como el preprocesamiento y la tokenización. La exposición a estas tareas proporciona una base sólida para comprender aplicaciones más avanzadas.
+2. Transfer Learning y Fine-tuning: Utilizamos técnicas de fine-tuning para adaptar modelos preentrenados, lo que sirve como introducción práctica al aprendizaje por transferencia, un concepto fundamental en el aprendizaje profundo.
+3. Optimización y Evaluación: Incorporamos métodos de evaluación de modelos y métricas de rendimiento, conectando con principios fundamentales de machine learning.
+4. Representación del Conocimiento: Al trabajar con LLMs, introducimos conceptos de embeddings y representaciones vectoriales del lenguaje, fundamentales para comprender cómo las máquinas procesan e interpretan el texto.
+5. Ética y Privacidad en IA: Promovemos prácticas éticas trabajando con datos locales y brindando un enfoque responsable de la IA, conectando con discusiones actuales sobre privacidad y seguridad en el campo.
+6. Democratización Tecnológica: Facilitamos el acceso a estas herramientas mediante Hugging Face y notebooks interactivos, relacionándonos con esfuerzos más amplios en la comunidad de IA para hacer estas tecnologías más accesibles.
 
 <!-- TOC --><a name="conclusión"></a>
 ## Conclusión
